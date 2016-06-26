@@ -37,7 +37,7 @@
 		"@angular/router": "3.0.0-alpha.7",
 		"@angular/router-deprecated": "2.0.0-rc.2",
 		"nativescript-angular": "0.1.8",
-		"tns-core-modules": "^2.1.0"
+		"tns-core-modules": "^2.0.1"
 	},
 	"devDependencies": {
 		"nativescript-dev-typescript": "^0.3.2"
